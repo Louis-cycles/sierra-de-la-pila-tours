@@ -1,0 +1,8 @@
+sierra-de-la-pila-tours/
+│── index.html
+│── style.css
+│── script.js
+│── images/
+│     ├── tour1.jpg
+│     ├── tour2.jpg
+│     └── logo.png
